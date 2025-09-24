@@ -1,0 +1,4 @@
+sleep_group,count,avg_exam_score,sd_exam_score
+Low Sleep (<6 hrs),75,32.56933333333333,6.666636846780157
+Medium Sleep (6-8 hrs),72,34.38055555555555,6.273320186781812
+High Sleep (8+ hrs),53,35.33773584905661,7.379916260080836

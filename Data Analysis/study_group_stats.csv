@@ -1,0 +1,4 @@
+study_group,count,avg_exam_score,sd_exam_score
+Low Study (<4 hrs),65,28.1,4.572882023407121
+Medium Study (4-8 hrs),65,33.323076923076925,4.961532312160769
+High Study (8+ hrs),70,39.97857142857143,4.608809864204558
