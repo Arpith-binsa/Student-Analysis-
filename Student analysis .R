@@ -1,5 +1,5 @@
 # ============================================
-# student_analysis.R – Student Performance Statistical Analysis
+# student_analysis.R: Student Performance Based On Sleep VS Study
 # ============================================
 
 # ---- 0) Packages ----
